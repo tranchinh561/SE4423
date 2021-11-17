@@ -8,7 +8,8 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!");
 		System.out.println("The conflict is solved!");
-		System.out.println("A bug is fixed on bug_fixing branch!!");
+		System.out.println("A bug is fixed on bug_fixing branch");
+
 	}
 
 }
